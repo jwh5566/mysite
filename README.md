@@ -1,0 +1,2 @@
+# mysite
+mastering django core
